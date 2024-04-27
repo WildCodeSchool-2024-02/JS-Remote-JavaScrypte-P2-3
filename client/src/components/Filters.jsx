@@ -1,4 +1,5 @@
 import { useLoaderData, NavLink } from "react-router-dom";
+import "./Navbar.scss";
 
 export default function Filters() {
   const filterData = useLoaderData();
@@ -14,7 +15,9 @@ export default function Filters() {
     <div>
       {uniqueCategories?.map((u) => (
         <NavLink to={`/filter/${u}`} key={u}>
-          <button type="button">{u}</button>
+          <button type="button" className="buttonFilter">
+            {u}
+          </button>
         </NavLink>
       ))}
     </div>

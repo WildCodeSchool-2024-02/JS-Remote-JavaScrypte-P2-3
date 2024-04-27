@@ -29,6 +29,7 @@
   justify-content: space-between;
   border-bottom: solid 2px black;
   padding: 2px 2px;
+  margin-bottom: 1rem;
 }
 
 .dropDown {
@@ -40,6 +41,41 @@
   background-color: #d7b9b9;
   border-style: none;
   font-size: 25px;
+}
+
+.imgArt {
+  width: 60vw;
+  height: 60vw;
+}
+
+.imgArtAll {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.imgFilter {
+  width: 60vw;
+  height: 60vw;
+}
+
+.imgFilterRoom {
+  width: 60vw;
+  height: 60vw;
+}
+
+.buttonFilter {
+  background-color: #d7b9b9;
+  border-radius: 10px;
+  border-style: none;
+  margin: 1rem;
+}
+
+.buttonBack {
+  text-decoration: none;
+  border: solid 1px #d7b9b9;
+  background-color: #d7b9b9;
+  border-radius: 10px;
+  color: black;
 }
 
 @media screen and (min-width: 900px) {

@@ -1,10 +1,10 @@
 import PropTypes from "prop-types";
 import { NavLink } from "react-router-dom";
-import "./RoomCardStyle.scss";
+import "./Navbar.scss";
 
 function RoomCard({ image, name, id }) {
   return (
-    <div>
+    <div className="imgArtAll">
       <NavLink to={`/art/${id}`}>
         <p>{name}</p>
         <img src={image} alt="Oeuvre d'art" className="imgArt" />
