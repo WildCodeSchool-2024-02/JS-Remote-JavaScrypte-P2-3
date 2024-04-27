@@ -29,7 +29,7 @@
     },
     {
       "id": 5,
-      "name": "Purple room",
+      "name": "Purple",
       "description": "The modern English word purple comes from the Old English purpul, which derives from Latin purpura, which, in turn, derives from the Greek πορφύρα (porphura), the name of the Tyrian purple dye manufactured in classical antiquity from a mucus secreted by the spiny dye-murex snail. The first recorded use of the word purple dates to the late 900s AD.",
       "image": "https://www.artic.edu/iiif/2/5d78f929-927b-332f-4995-1c17eb85d8f0/full/843,/0/default.jpg",
       "category" : "colors"
@@ -43,7 +43,7 @@
     },
     {
       "id": 7,
-      "name": "Pink room",
+      "name": "Pink",
       "description": "The color pink is named after the flowers, pinks, flowering plants in the genus Dianthus, and derives from the frilled edge of the flowers. The verb to pink dates from the 14th century and means to decorate with a perforated or punched pattern (possibly from German picken, to peck). It has survived to the current day in pinking shears, hand-held scissors that cut a zig-zagged line to prevent fraying. ",
       "image": "https://www.artic.edu/iiif/2/b4183df5-66bd-27b3-f2c3-8916cab52caf/full/843,/0/default.jpg",
       "category" : "colors"
@@ -69,5 +69,46 @@
       "description": "Pottery and porcelain (陶磁器, tōjiki, also yakimono (焼きもの), or tōgei (陶芸)) is one of the oldest Japanese crafts and art forms, dating back to the Neolithic period.[1] Kilns have produced earthenware, pottery, stoneware, glazed pottery, glazed stoneware, porcelain, and blue-and-white ware. Japan has an exceptionally long and successful history of ceramic production. Earthenwares were made as early as the Jōmon period (10,500–300 BC), giving Japan one of the oldest ceramic traditions in the world. Japan is further distinguished by the unusual esteem that ceramics hold within its artistic tradition, owing to the enduring popularity of the tea ceremony",
       "image": "https://www.artic.edu/iiif/2/49e504d5-b3cc-ea8c-41b3-60c9c743d9dc/full/843,/0/default.jpg",
       "category" : "others"
-    }
+    },
+
+    {
+      "id": 11,
+      "name": "Amulet of Bes",
+      "description": " Late Period–Ptolemaic Period (664–30 BCE) - Egypt - The dwarf Bes, with his feathered headdress, lion mane and tail, and protruding tongue, was the protector of women and children. Huge numbers of amulets were made of him in the Ptolemaic period.",
+      "image": "https://www.artic.edu/iiif/2/46ca2bdf-9311-06d2-5cb9-b3a54735c784/full/843,/0/default.jpg",
+      "category" : "sculptures"
+      },
+      
+      {
+      "id": 12,
+      "name": "Seated woman with a parasol (study for La Grande Jatte)",
+      "description": " 1884/85 - Georges Seurat French, 1859-1891 - During 1884 and 1885, Georges Seurat was hard at work on the most ambitious painting of his career, A Sunday on La Grande Jatte—1884, The artist’s genesis of this large canvas involved many preparatory studies, which fall primarily into two groups: small compositional sketches and color studies on wooden panels, and nuanced Conté crayon drawings that explore both the empty landscape and the shapes of specific figures or figural groups. In this contemplative drawing, Seurat developed the expressive contours of the seated female figure holding a parasol that would ultimately occupy the center of the finished painting.",
+      "image": "https://www.artic.edu/iiif/2/8769be30-7bda-37f2-16a8-30e5396d47dc/full/843,/0/default.jpg" ,
+      "category" : "paintings"
+      },
+      
+      {
+      "id": 13,
+      "name": "Vincent van Gogh",
+      "description": " 1887 - self-portrait - Dutch, 1853-1890 - In 1886 Vincent van Gogh left his native Holland and settled in Paris, where his beloved brother Theo was a dealer in paintings. Van Gogh created at least twenty-four self-portraits during his two-year stay in the energetic French capital. This early example is modest in size and was painted on prepared artist’s board rather than canvas. From Paris, Van Gogh traveled to the southern town of Arles for fifteen months. At the time of his death, in 1890, he had actively pursued his art for only five years.",
+      "image": "https://www.artic.edu/iiif/2/26d3cea8-44c0-bfbd-a91a-19a007517152/full/843,/0/default.jpg" ,
+      "category" : "paintings"
+      },
+      
+      
+      {"id": 14,
+      "name": "Young bull",
+      "description": " c. 1496, erroneously inscribed in another hand 1508 - Albrecht Dürer,  German, 1471–1528 - From an early age, Albrecht Dürer displayed an inquisitive mind and exceptional talent as a draftsman. He was born in Nuremberg and first trained as a goldsmith in his father’s shop before apprenticing with the painter Michael Wolgemut. One of his earliest animal drawings, _Young Steer_ shows its subject grazing in an unseen field. The artist’s sure strokes and adept cross-hatching delineate the steer’s sculptural form, with taut skin stretched over a strong yet bony frame. Dürer’s precise draftsmanship recalls the drawings and prints of the celebrated German master Martin Schongauer, whom he greatly admired. This work was probably a study from nature; sketchy lines around the animal’s right hind foot, back, muzzle, and horns reveal that the artist originally drew the steer in a slightly different position, with his mouth open. ",
+      "image": "https://www.artic.edu/iiif/2/d2529576-bbf0-c631-6f8c-659e825c552d/full/843,/0/default.jpg" ,
+      "category" : "others"
+      },
+      
+      {"id": 15,
+      "name": "Blue",
+      "description": " Blue has been an important colour in art and decoration since ancient times. The semi-precious stone lapis lazuli was used in ancient Egypt for jewellery and ornament and later, in the Renaissance, to make the pigment ultramarine, the most expensive of all pigments. In the eighth century Chinese artists used cobalt blue to colour fine blue and white porcelain. In the Middle Ages, European artists used it in the windows of cathedrals. Europeans wore clothing coloured with the vegetable dye woad until it was replaced by the finer indigo from America. In the 19th century, synthetic blue dyes and pigments gradually replaced organic dyes and mineral pigments.  ",
+      "image": "https://www.artic.edu/iiif/2/ce23d4f8-2fca-d11a-2bf9-f25c83e4f1cc/full/843,/0/default.jpg",
+      "category" : "colors"
+      }
+
+
   ]
