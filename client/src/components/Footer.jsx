@@ -1,7 +1,9 @@
+import "./Navbar.scss";
+
 export default function Footer() {
   return (
-    <div>
-      <ul>
+    <div className="footer">
+      <ul className="footer-list">
         <li>
           <a href="https://www.artic.edu/">About us</a>
         </li>
@@ -9,8 +11,7 @@ export default function Footer() {
           <a href="https://www.artic.edu/">Contact</a>
         </li>
         <li>
-          Images courtesy
-          <a href="https://www.artic.edu/">Art Institute of Chicago</a>
+          <a href="https://www.artic.edu/">Copyright</a>
         </li>
       </ul>
     </div>

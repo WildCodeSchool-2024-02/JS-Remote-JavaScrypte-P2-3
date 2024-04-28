@@ -1,12 +1,13 @@
 import PropTypes from "prop-types";
 import { NavLink } from "react-router-dom";
+import "./Category.scss";
 
 export default function CategoryCard({ name, image, id }) {
   return (
-    <div>
-      <NavLink to={`/art/${id}`}>
-        <h3>{name}</h3>
-        <img src={image} alt="" />
+    <div className="category-filter-page">
+      <NavLink className="nav-category" to={`/art/${id}`}>
+        <h3 className="name-category-filter">{name}</h3>
+        <img src={image} alt="" className="img-category-filter" />
       </NavLink>
     </div>
   );
