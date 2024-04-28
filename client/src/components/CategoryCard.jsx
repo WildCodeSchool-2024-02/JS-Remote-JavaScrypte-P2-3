@@ -4,7 +4,7 @@ import { NavLink } from "react-router-dom";
 export default function CategoryCard({ name, image, id }) {
   return (
     <div>
-      <NavLink to={`/art/${id}`}>
+      <NavLink to={`/filterart/${id}`}>
         <h3>{name}</h3>
         <img src={image} alt="" />
       </NavLink>
